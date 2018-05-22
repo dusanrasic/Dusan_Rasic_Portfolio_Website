@@ -1,0 +1,119 @@
+.home_content .image{
+	margin-left: 12vw;
+	margin-top: 10vh;
+}
+.btn-pr{
+	left: -2vw;
+}
+.btn-co{
+	left: -5vw;
+}
+.btn-ab{
+	top: 5vh;
+}
+.btn-cont{
+	top: 15vh;
+}
+.btn-log{
+	right: 5vw;
+	width: auto;
+}
+.btn-doc{
+	right: 5vw;
+	bottom: 4vh;
+}
+.log-form .log-form-content{
+	width: 60vw;
+}
+.about-me-content .picture{
+	width: 250px;
+	height: 250px;
+	margin-top: 0;
+}
+.about-me-content .facebook{
+	width: 40px;
+    height: 40px;
+    top: 105vh;
+}
+.about-me-content .facebook img{
+	width: 40px;
+	height: 40px;
+}
+.about-me-content .instagram{
+	width: 40px;
+	height: 40px;
+    right: 9vw;
+    top: 158vh;
+}
+.about-me-content .instagram img{
+	width: 40px;
+	height: 40px;
+}
+.about-me-content .googleplus{
+	width: 40px;
+	height: 40px;
+	top: 105vh;
+}
+.about-me-content .googleplus img{
+	width: 40px;
+	height: 40px;
+}
+.about-me-content .outlook{
+	width: 40px;
+	height: 40px;
+	top: 160vh;
+}
+.about-me-content .outlook img{
+	width: 40px;
+	height: 40px;
+}
+.projects-box h2{
+	font-size: 20px;
+}
+.projects-me .project-1{
+	margin-left: 0;
+}
+.project-1 .title{
+    margin-left: 3vw;
+}
+.projects-me .project-2{
+	margin-left: 0;
+}
+.project-2 .title{
+	width: 20vw;
+	margin-left: 0;
+}
+.projects-me .project-3{
+	margin-left: 0;
+}
+.project-3 .title{
+	margin-left: -1vw;
+}
+.contact-content .text .first{
+    margin-top: 50%;
+    font-size: 30px;
+    font-weight: 600;
+}
+.contact-content .text .second{
+	font-size: 30px;
+    font-weight: 600;
+}
+.forms .contact_form{
+	width: 40vw;
+}
+.btnSubContact{
+	width: auto;
+}
+#like{
+	height: 15px;
+    padding: 15px;
+    width: 15px;
+}
+#dislike{
+	height: 15px;
+    padding: 15px;
+    width: 15px;
+}
+.post .post-footer{
+	padding-right: 0;
+}

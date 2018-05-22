@@ -1,0 +1,61 @@
+.home_content .image{
+	margin-left: 20vw;
+}
+.btn-co{
+	bottom: 10vh;
+}
+.projects-box{
+	width: auto;
+}
+.projects-me .project-1{
+	margin-left: 0;
+	height: 50vh;
+}
+.projects-me .project-2{
+	height: 50vh;
+}
+.projects-me .project-3{
+	height: 50vh
+}
+.project-1 .title{
+	margin-left: 5vw;
+}
+.project-2 .title{
+	width: 20vw;
+	margin-left: 3.5vw;
+}
+.project-3 .title{
+	margin-left: 3vw;
+}
+.project-gallery .first img{
+	height: 32.7vh;
+	margin-top: 0.4vh;
+}
+.project-gallery .second{
+	height: 35vh;
+	margin-top: -10vh;
+}
+.project-gallery .second img{
+	height: 15vh;
+}
+.contact-content .text .first{
+	font-size: 45px;
+	margin-top: 40%;
+}
+.contact-content .text .second{
+	font-size: 45px;
+}
+.about-me-content .picture{
+	width: 320px;
+	height: 320px;
+	margin-top: 100px;
+}
+.forms .contact_form{
+	width: 40vw;
+}
+.btnSubContact{
+	width: 30%;
+}
+.anketa{
+	width: 26vw;
+}
